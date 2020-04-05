@@ -1,17 +1,21 @@
 import os
 import pyaudio
 import typer
+import json
 
 from datetime import datetime
 from pathlib import Path
 from shutil import make_archive
 from funcs.recording import find_mic_usb_port, record_from_mic
-from run_settings import form_1, chans, samp_rate, chunk
 
+form_1 = pyaudio.paInt16
 app = typer.Typer()
 
 @app.command()
-def record_save_audio(n_files: int = 10,
+def record_save_audio(chans: int =1,
+                      samp_rate: int = 44100,
+                      chunk: int = 4096,
+                      n_files: int = 10,
                       record_secs: int = 60,
                       location: str = 'kitchen',
                       base_dir: str = '/home/pi/Desktop/wav_files'
@@ -36,9 +40,10 @@ def record_save_audio(n_files: int = 10,
     'chunk_size': chunk,
     'record_secs': record_secs,
     'usb_audio_device_num': usb_audio_device_num,
-    'output_dir': out_dir_path
+    'output_dir': out_dir_path,
+    'location': location
     }
-    
+        
     # Recording and saving down files
     for i in range(n_files):
         print(F'Outputting file number = {i+1}')
@@ -47,8 +52,13 @@ def record_save_audio(n_files: int = 10,
         wave_output_filename = F'{dt_now}.wav'
         record_from_mic(settings_dict, wave_output_filename)
         
+    # Outputting settings JSON to directory
+    json_settings = json.dumps(settings_dict)
+    with open(os.path.join(out_dir_path, 'settings.json'), 'w') as outfile:
+        outfile.write(json_settings)
+    
     # Zip the recorded audio to a file
-    zip_file_dir = os.path.join(zip_file_dir, F'{dt_file_start}.zip')
+    zip_file_dir = os.path.join(zip_file_dir, F'{dt_file_start}')
     print(F'Zipping wave files to {zip_file_dir}')
     make_archive(zip_file_dir, 'zip', out_dir_path)
 

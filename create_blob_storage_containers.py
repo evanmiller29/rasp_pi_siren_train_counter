@@ -24,14 +24,15 @@ try:
         blob_client = blob_service_client.get_blob_client(container=container_name, blob=file_name)
     
     # Upload the created file
-    with open(os.path.join(file_path, file_name), "rb") as data:
-          blob_client.upload_blob(data)
+        with open(os.path.join(file_path, file_name), "rb") as data:
+            blob_client.upload_blob(data)
           
     print("Finished uploading file")
 
     container_dict = {
         'kitchen': kitchen_container,
-        'bedroom': bedroom_container
+        'bedroom': bedroom_container,
+        'AZURE_STORAGE_CONNECTION_STR':azure_conn_str,
     }
 
     print("Outputting container json")

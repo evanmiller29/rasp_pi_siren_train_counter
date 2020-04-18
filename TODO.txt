@@ -1,0 +1,2 @@
+- Find a way for typer.Option to allow a list of integers
+    + Current way seems too hacky

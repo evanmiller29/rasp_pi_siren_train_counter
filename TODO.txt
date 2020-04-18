@@ -1,2 +1,5 @@
 - Find a way for typer.Option to allow a list of integers
     + Current way seems too hacky
+- label_studio.bat:
+    + rename to 03_label_studio.bat
+    + Create for linux too with 03_label_studio.sh

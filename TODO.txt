@@ -3,3 +3,5 @@
 - label_studio.bat:
     + rename to 03_label_studio.bat
     + Create for linux too with 03_label_studio.sh
+- Should remove raw file folder automatically on run to save space on Pi
+

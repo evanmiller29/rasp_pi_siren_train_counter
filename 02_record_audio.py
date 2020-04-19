@@ -31,10 +31,10 @@ def record_save_audio(chans: int =1,
                       samp_rate: int = 44100,
                       chunk: int = 4096,                     
                       base_dir: str = '/home/pi/Desktop/wav_files',
+                      record_secs: str = typer.Option(['10','60'],
+                                                      prompt='How many seconds should we record for?'),
                       n_files: str = typer.Option(['1','10', '30', '60', '120', '180'],
                                                   prompt='How many files would you like to record?'),
-                      record_secs: str = typer.Option(['10','30', '60'],
-                                                      prompt='How should each record be for?'),
                       location: str = typer.Option(['kitchen','bedroom'],
                                                    prompt='Where are you recording audio')
                       ):

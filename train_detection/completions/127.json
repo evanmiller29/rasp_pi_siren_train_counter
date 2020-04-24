@@ -1,0 +1,26 @@
+{
+    "completions": [
+        {
+            "id": 127001,
+            "lead_time": 72.665,
+            "result": [
+                {
+                    "from_name": "label",
+                    "id": "Z2lXnq0FaX",
+                    "to_name": "audio",
+                    "type": "choices",
+                    "value": {
+                        "choices": [
+                            "No train"
+                        ]
+                    }
+                }
+            ]
+        }
+    ],
+    "data": {
+        "url": "http://localhost:8200/data/2020040810191586337559.wav?d=D%3A%5Cwav+files%5Craw%5Cunzipped"
+    },
+    "id": 127,
+    "task_path": "D:\\wav files\\raw\\unzipped\\2020040810191586337559.wav"
+}

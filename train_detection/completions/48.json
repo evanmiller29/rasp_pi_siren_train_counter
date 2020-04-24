@@ -1,0 +1,26 @@
+{
+    "completions": [
+        {
+            "id": 48001,
+            "lead_time": 65.585,
+            "result": [
+                {
+                    "from_name": "label",
+                    "id": "T_MjhK4cI5",
+                    "to_name": "audio",
+                    "type": "choices",
+                    "value": {
+                        "choices": [
+                            "Train"
+                        ]
+                    }
+                }
+            ]
+        }
+    ],
+    "data": {
+        "url": "http://localhost:8200/data/2020040613171586175422.wav?d=D%3A%5Cwav+files%5Craw%5Cunzipped"
+    },
+    "id": 48,
+    "task_path": "D:\\wav files\\raw\\unzipped\\2020040613171586175422.wav"
+}

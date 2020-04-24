@@ -1,0 +1,26 @@
+{
+    "completions": [
+        {
+            "id": 123001,
+            "lead_time": 68.757,
+            "result": [
+                {
+                    "from_name": "label",
+                    "id": "3guMo2appm",
+                    "to_name": "audio",
+                    "type": "choices",
+                    "value": {
+                        "choices": [
+                            "Train"
+                        ]
+                    }
+                }
+            ]
+        }
+    ],
+    "data": {
+        "url": "http://localhost:8200/data/2020040808431586331802.wav?d=D%3A%5Cwav+files%5Craw%5Cunzipped"
+    },
+    "id": 123,
+    "task_path": "D:\\wav files\\raw\\unzipped\\2020040808431586331802.wav"
+}

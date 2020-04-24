@@ -1,0 +1,26 @@
+{
+    "completions": [
+        {
+            "id": 86001,
+            "lead_time": 68.299,
+            "result": [
+                {
+                    "from_name": "label",
+                    "id": "gy-GrBpERT",
+                    "to_name": "audio",
+                    "type": "choices",
+                    "value": {
+                        "choices": [
+                            "No train"
+                        ]
+                    }
+                }
+            ]
+        }
+    ],
+    "data": {
+        "url": "http://localhost:8200/data/2020040613521586177545.wav?d=D%3A%5Cwav+files%5Craw%5Cunzipped"
+    },
+    "id": 86,
+    "task_path": "D:\\wav files\\raw\\unzipped\\2020040613521586177545.wav"
+}

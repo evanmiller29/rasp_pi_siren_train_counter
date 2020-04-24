@@ -1,0 +1,26 @@
+{
+    "completions": [
+        {
+            "id": 100001,
+            "lead_time": 74.013,
+            "result": [
+                {
+                    "from_name": "label",
+                    "id": "FNGYnS_vT8",
+                    "to_name": "audio",
+                    "type": "choices",
+                    "value": {
+                        "choices": [
+                            "No train"
+                        ]
+                    }
+                }
+            ]
+        }
+    ],
+    "data": {
+        "url": "http://localhost:8200/data/2020040614051586178328.wav?d=D%3A%5Cwav+files%5Craw%5Cunzipped"
+    },
+    "id": 100,
+    "task_path": "D:\\wav files\\raw\\unzipped\\2020040614051586178328.wav"
+}

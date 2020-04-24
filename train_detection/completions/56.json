@@ -1,0 +1,26 @@
+{
+    "completions": [
+        {
+            "id": 56001,
+            "lead_time": 62.729,
+            "result": [
+                {
+                    "from_name": "label",
+                    "id": "Jicg_06lfW",
+                    "to_name": "audio",
+                    "type": "choices",
+                    "value": {
+                        "choices": [
+                            "No train"
+                        ]
+                    }
+                }
+            ]
+        }
+    ],
+    "data": {
+        "url": "http://localhost:8200/data/2020040613241586175869.wav?d=D%3A%5Cwav+files%5Craw%5Cunzipped"
+    },
+    "id": 56,
+    "task_path": "D:\\wav files\\raw\\unzipped\\2020040613241586175869.wav"
+}

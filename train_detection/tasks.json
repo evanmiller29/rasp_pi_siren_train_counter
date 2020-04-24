@@ -1,0 +1,891 @@
+{
+  "1": {
+    "id": 1,
+    "task_path": "D:\\wav files\\raw\\unzipped\\2020040612331586172795.wav",
+    "data": {
+      "url": "http://localhost:8200/data/2020040612331586172795.wav?d=D%3A%5Cwav+files%5Craw%5Cunzipped"
+    }
+  },
+  "2": {
+    "id": 2,
+    "task_path": "D:\\wav files\\raw\\unzipped\\2020040612341586172851.wav",
+    "data": {
+      "url": "http://localhost:8200/data/2020040612341586172851.wav?d=D%3A%5Cwav+files%5Craw%5Cunzipped"
+    }
+  },
+  "3": {
+    "id": 3,
+    "task_path": "D:\\wav files\\raw\\unzipped\\2020040612351586172907.wav",
+    "data": {
+      "url": "http://localhost:8200/data/2020040612351586172907.wav?d=D%3A%5Cwav+files%5Craw%5Cunzipped"
+    }
+  },
+  "4": {
+    "id": 4,
+    "task_path": "D:\\wav files\\raw\\unzipped\\2020040612361586172963.wav",
+    "data": {
+      "url": "http://localhost:8200/data/2020040612361586172963.wav?d=D%3A%5Cwav+files%5Craw%5Cunzipped"
+    }
+  },
+  "5": {
+    "id": 5,
+    "task_path": "D:\\wav files\\raw\\unzipped\\2020040612361586173019.wav",
+    "data": {
+      "url": "http://localhost:8200/data/2020040612361586173019.wav?d=D%3A%5Cwav+files%5Craw%5Cunzipped"
+    }
+  },
+  "6": {
+    "id": 6,
+    "task_path": "D:\\wav files\\raw\\unzipped\\2020040612371586173074.wav",
+    "data": {
+      "url": "http://localhost:8200/data/2020040612371586173074.wav?d=D%3A%5Cwav+files%5Craw%5Cunzipped"
+    }
+  },
+  "7": {
+    "id": 7,
+    "task_path": "D:\\wav files\\raw\\unzipped\\2020040612381586173130.wav",
+    "data": {
+      "url": "http://localhost:8200/data/2020040612381586173130.wav?d=D%3A%5Cwav+files%5Craw%5Cunzipped"
+    }
+  },
+  "8": {
+    "id": 8,
+    "task_path": "D:\\wav files\\raw\\unzipped\\2020040612391586173186.wav",
+    "data": {
+      "url": "http://localhost:8200/data/2020040612391586173186.wav?d=D%3A%5Cwav+files%5Craw%5Cunzipped"
+    }
+  },
+  "9": {
+    "id": 9,
+    "task_path": "D:\\wav files\\raw\\unzipped\\2020040612401586173242.wav",
+    "data": {
+      "url": "http://localhost:8200/data/2020040612401586173242.wav?d=D%3A%5Cwav+files%5Craw%5Cunzipped"
+    }
+  },
+  "10": {
+    "id": 10,
+    "task_path": "D:\\wav files\\raw\\unzipped\\2020040612411586173298.wav",
+    "data": {
+      "url": "http://localhost:8200/data/2020040612411586173298.wav?d=D%3A%5Cwav+files%5Craw%5Cunzipped"
+    }
+  },
+  "11": {
+    "id": 11,
+    "task_path": "D:\\wav files\\raw\\unzipped\\2020040612421586173354.wav",
+    "data": {
+      "url": "http://localhost:8200/data/2020040612421586173354.wav?d=D%3A%5Cwav+files%5Craw%5Cunzipped"
+    }
+  },
+  "12": {
+    "id": 12,
+    "task_path": "D:\\wav files\\raw\\unzipped\\2020040612431586173410.wav",
+    "data": {
+      "url": "http://localhost:8200/data/2020040612431586173410.wav?d=D%3A%5Cwav+files%5Craw%5Cunzipped"
+    }
+  },
+  "13": {
+    "id": 13,
+    "task_path": "D:\\wav files\\raw\\unzipped\\2020040612441586173466.wav",
+    "data": {
+      "url": "http://localhost:8200/data/2020040612441586173466.wav?d=D%3A%5Cwav+files%5Craw%5Cunzipped"
+    }
+  },
+  "14": {
+    "id": 14,
+    "task_path": "D:\\wav files\\raw\\unzipped\\2020040612451586173522.wav",
+    "data": {
+      "url": "http://localhost:8200/data/2020040612451586173522.wav?d=D%3A%5Cwav+files%5Craw%5Cunzipped"
+    }
+  },
+  "15": {
+    "id": 15,
+    "task_path": "D:\\wav files\\raw\\unzipped\\2020040612461586173578.wav",
+    "data": {
+      "url": "http://localhost:8200/data/2020040612461586173578.wav?d=D%3A%5Cwav+files%5Craw%5Cunzipped"
+    }
+  },
+  "16": {
+    "id": 16,
+    "task_path": "D:\\wav files\\raw\\unzipped\\2020040612471586173633.wav",
+    "data": {
+      "url": "http://localhost:8200/data/2020040612471586173633.wav?d=D%3A%5Cwav+files%5Craw%5Cunzipped"
+    }
+  },
+  "17": {
+    "id": 17,
+    "task_path": "D:\\wav files\\raw\\unzipped\\2020040612481586173689.wav",
+    "data": {
+      "url": "http://localhost:8200/data/2020040612481586173689.wav?d=D%3A%5Cwav+files%5Craw%5Cunzipped"
+    }
+  },
+  "18": {
+    "id": 18,
+    "task_path": "D:\\wav files\\raw\\unzipped\\2020040612491586173745.wav",
+    "data": {
+      "url": "http://localhost:8200/data/2020040612491586173745.wav?d=D%3A%5Cwav+files%5Craw%5Cunzipped"
+    }
+  },
+  "19": {
+    "id": 19,
+    "task_path": "D:\\wav files\\raw\\unzipped\\2020040612501586173801.wav",
+    "data": {
+      "url": "http://localhost:8200/data/2020040612501586173801.wav?d=D%3A%5Cwav+files%5Craw%5Cunzipped"
+    }
+  },
+  "20": {
+    "id": 20,
+    "task_path": "D:\\wav files\\raw\\unzipped\\2020040612501586173857.wav",
+    "data": {
+      "url": "http://localhost:8200/data/2020040612501586173857.wav?d=D%3A%5Cwav+files%5Craw%5Cunzipped"
+    }
+  },
+  "21": {
+    "id": 21,
+    "task_path": "D:\\wav files\\raw\\unzipped\\2020040612511586173913.wav",
+    "data": {
+      "url": "http://localhost:8200/data/2020040612511586173913.wav?d=D%3A%5Cwav+files%5Craw%5Cunzipped"
+    }
+  },
+  "22": {
+    "id": 22,
+    "task_path": "D:\\wav files\\raw\\unzipped\\2020040612521586173969.wav",
+    "data": {
+      "url": "http://localhost:8200/data/2020040612521586173969.wav?d=D%3A%5Cwav+files%5Craw%5Cunzipped"
+    }
+  },
+  "23": {
+    "id": 23,
+    "task_path": "D:\\wav files\\raw\\unzipped\\2020040612531586174025.wav",
+    "data": {
+      "url": "http://localhost:8200/data/2020040612531586174025.wav?d=D%3A%5Cwav+files%5Craw%5Cunzipped"
+    }
+  },
+  "24": {
+    "id": 24,
+    "task_path": "D:\\wav files\\raw\\unzipped\\2020040612541586174081.wav",
+    "data": {
+      "url": "http://localhost:8200/data/2020040612541586174081.wav?d=D%3A%5Cwav+files%5Craw%5Cunzipped"
+    }
+  },
+  "25": {
+    "id": 25,
+    "task_path": "D:\\wav files\\raw\\unzipped\\2020040612551586174137.wav",
+    "data": {
+      "url": "http://localhost:8200/data/2020040612551586174137.wav?d=D%3A%5Cwav+files%5Craw%5Cunzipped"
+    }
+  },
+  "26": {
+    "id": 26,
+    "task_path": "D:\\wav files\\raw\\unzipped\\2020040612561586174192.wav",
+    "data": {
+      "url": "http://localhost:8200/data/2020040612561586174192.wav?d=D%3A%5Cwav+files%5Craw%5Cunzipped"
+    }
+  },
+  "27": {
+    "id": 27,
+    "task_path": "D:\\wav files\\raw\\unzipped\\2020040612571586174248.wav",
+    "data": {
+      "url": "http://localhost:8200/data/2020040612571586174248.wav?d=D%3A%5Cwav+files%5Craw%5Cunzipped"
+    }
+  },
+  "28": {
+    "id": 28,
+    "task_path": "D:\\wav files\\raw\\unzipped\\2020040612581586174304.wav",
+    "data": {
+      "url": "http://localhost:8200/data/2020040612581586174304.wav?d=D%3A%5Cwav+files%5Craw%5Cunzipped"
+    }
+  },
+  "29": {
+    "id": 29,
+    "task_path": "D:\\wav files\\raw\\unzipped\\2020040612591586174360.wav",
+    "data": {
+      "url": "http://localhost:8200/data/2020040612591586174360.wav?d=D%3A%5Cwav+files%5Craw%5Cunzipped"
+    }
+  },
+  "30": {
+    "id": 30,
+    "task_path": "D:\\wav files\\raw\\unzipped\\2020040613001586174416.wav",
+    "data": {
+      "url": "http://localhost:8200/data/2020040613001586174416.wav?d=D%3A%5Cwav+files%5Craw%5Cunzipped"
+    }
+  },
+  "31": {
+    "id": 31,
+    "task_path": "D:\\wav files\\raw\\unzipped\\2020040613011586174472.wav",
+    "data": {
+      "url": "http://localhost:8200/data/2020040613011586174472.wav?d=D%3A%5Cwav+files%5Craw%5Cunzipped"
+    }
+  },
+  "32": {
+    "id": 32,
+    "task_path": "D:\\wav files\\raw\\unzipped\\2020040613021586174528.wav",
+    "data": {
+      "url": "http://localhost:8200/data/2020040613021586174528.wav?d=D%3A%5Cwav+files%5Craw%5Cunzipped"
+    }
+  },
+  "33": {
+    "id": 33,
+    "task_path": "D:\\wav files\\raw\\unzipped\\2020040613031586174583.wav",
+    "data": {
+      "url": "http://localhost:8200/data/2020040613031586174583.wav?d=D%3A%5Cwav+files%5Craw%5Cunzipped"
+    }
+  },
+  "34": {
+    "id": 34,
+    "task_path": "D:\\wav files\\raw\\unzipped\\2020040613031586174639.wav",
+    "data": {
+      "url": "http://localhost:8200/data/2020040613031586174639.wav?d=D%3A%5Cwav+files%5Craw%5Cunzipped"
+    }
+  },
+  "35": {
+    "id": 35,
+    "task_path": "D:\\wav files\\raw\\unzipped\\2020040613041586174695.wav",
+    "data": {
+      "url": "http://localhost:8200/data/2020040613041586174695.wav?d=D%3A%5Cwav+files%5Craw%5Cunzipped"
+    }
+  },
+  "36": {
+    "id": 36,
+    "task_path": "D:\\wav files\\raw\\unzipped\\2020040613051586174751.wav",
+    "data": {
+      "url": "http://localhost:8200/data/2020040613051586174751.wav?d=D%3A%5Cwav+files%5Craw%5Cunzipped"
+    }
+  },
+  "37": {
+    "id": 37,
+    "task_path": "D:\\wav files\\raw\\unzipped\\2020040613061586174807.wav",
+    "data": {
+      "url": "http://localhost:8200/data/2020040613061586174807.wav?d=D%3A%5Cwav+files%5Craw%5Cunzipped"
+    }
+  },
+  "38": {
+    "id": 38,
+    "task_path": "D:\\wav files\\raw\\unzipped\\2020040613071586174863.wav",
+    "data": {
+      "url": "http://localhost:8200/data/2020040613071586174863.wav?d=D%3A%5Cwav+files%5Craw%5Cunzipped"
+    }
+  },
+  "39": {
+    "id": 39,
+    "task_path": "D:\\wav files\\raw\\unzipped\\2020040613081586174919.wav",
+    "data": {
+      "url": "http://localhost:8200/data/2020040613081586174919.wav?d=D%3A%5Cwav+files%5Craw%5Cunzipped"
+    }
+  },
+  "40": {
+    "id": 40,
+    "task_path": "D:\\wav files\\raw\\unzipped\\2020040613091586174975.wav",
+    "data": {
+      "url": "http://localhost:8200/data/2020040613091586174975.wav?d=D%3A%5Cwav+files%5Craw%5Cunzipped"
+    }
+  },
+  "41": {
+    "id": 41,
+    "task_path": "D:\\wav files\\raw\\unzipped\\2020040613101586175031.wav",
+    "data": {
+      "url": "http://localhost:8200/data/2020040613101586175031.wav?d=D%3A%5Cwav+files%5Craw%5Cunzipped"
+    }
+  },
+  "42": {
+    "id": 42,
+    "task_path": "D:\\wav files\\raw\\unzipped\\2020040613111586175086.wav",
+    "data": {
+      "url": "http://localhost:8200/data/2020040613111586175086.wav?d=D%3A%5Cwav+files%5Craw%5Cunzipped"
+    }
+  },
+  "43": {
+    "id": 43,
+    "task_path": "D:\\wav files\\raw\\unzipped\\2020040613121586175142.wav",
+    "data": {
+      "url": "http://localhost:8200/data/2020040613121586175142.wav?d=D%3A%5Cwav+files%5Craw%5Cunzipped"
+    }
+  },
+  "44": {
+    "id": 44,
+    "task_path": "D:\\wav files\\raw\\unzipped\\2020040613131586175198.wav",
+    "data": {
+      "url": "http://localhost:8200/data/2020040613131586175198.wav?d=D%3A%5Cwav+files%5Craw%5Cunzipped"
+    }
+  },
+  "45": {
+    "id": 45,
+    "task_path": "D:\\wav files\\raw\\unzipped\\2020040613141586175254.wav",
+    "data": {
+      "url": "http://localhost:8200/data/2020040613141586175254.wav?d=D%3A%5Cwav+files%5Craw%5Cunzipped"
+    }
+  },
+  "46": {
+    "id": 46,
+    "task_path": "D:\\wav files\\raw\\unzipped\\2020040613151586175310.wav",
+    "data": {
+      "url": "http://localhost:8200/data/2020040613151586175310.wav?d=D%3A%5Cwav+files%5Craw%5Cunzipped"
+    }
+  },
+  "47": {
+    "id": 47,
+    "task_path": "D:\\wav files\\raw\\unzipped\\2020040613161586175366.wav",
+    "data": {
+      "url": "http://localhost:8200/data/2020040613161586175366.wav?d=D%3A%5Cwav+files%5Craw%5Cunzipped"
+    }
+  },
+  "48": {
+    "id": 48,
+    "task_path": "D:\\wav files\\raw\\unzipped\\2020040613171586175422.wav",
+    "data": {
+      "url": "http://localhost:8200/data/2020040613171586175422.wav?d=D%3A%5Cwav+files%5Craw%5Cunzipped"
+    }
+  },
+  "49": {
+    "id": 49,
+    "task_path": "D:\\wav files\\raw\\unzipped\\2020040613171586175478.wav",
+    "data": {
+      "url": "http://localhost:8200/data/2020040613171586175478.wav?d=D%3A%5Cwav+files%5Craw%5Cunzipped"
+    }
+  },
+  "50": {
+    "id": 50,
+    "task_path": "D:\\wav files\\raw\\unzipped\\2020040613181586175534.wav",
+    "data": {
+      "url": "http://localhost:8200/data/2020040613181586175534.wav?d=D%3A%5Cwav+files%5Craw%5Cunzipped"
+    }
+  },
+  "51": {
+    "id": 51,
+    "task_path": "D:\\wav files\\raw\\unzipped\\2020040613191586175589.wav",
+    "data": {
+      "url": "http://localhost:8200/data/2020040613191586175589.wav?d=D%3A%5Cwav+files%5Craw%5Cunzipped"
+    }
+  },
+  "52": {
+    "id": 52,
+    "task_path": "D:\\wav files\\raw\\unzipped\\2020040613201586175645.wav",
+    "data": {
+      "url": "http://localhost:8200/data/2020040613201586175645.wav?d=D%3A%5Cwav+files%5Craw%5Cunzipped"
+    }
+  },
+  "53": {
+    "id": 53,
+    "task_path": "D:\\wav files\\raw\\unzipped\\2020040613211586175701.wav",
+    "data": {
+      "url": "http://localhost:8200/data/2020040613211586175701.wav?d=D%3A%5Cwav+files%5Craw%5Cunzipped"
+    }
+  },
+  "54": {
+    "id": 54,
+    "task_path": "D:\\wav files\\raw\\unzipped\\2020040613221586175757.wav",
+    "data": {
+      "url": "http://localhost:8200/data/2020040613221586175757.wav?d=D%3A%5Cwav+files%5Craw%5Cunzipped"
+    }
+  },
+  "55": {
+    "id": 55,
+    "task_path": "D:\\wav files\\raw\\unzipped\\2020040613231586175813.wav",
+    "data": {
+      "url": "http://localhost:8200/data/2020040613231586175813.wav?d=D%3A%5Cwav+files%5Craw%5Cunzipped"
+    }
+  },
+  "56": {
+    "id": 56,
+    "task_path": "D:\\wav files\\raw\\unzipped\\2020040613241586175869.wav",
+    "data": {
+      "url": "http://localhost:8200/data/2020040613241586175869.wav?d=D%3A%5Cwav+files%5Craw%5Cunzipped"
+    }
+  },
+  "57": {
+    "id": 57,
+    "task_path": "D:\\wav files\\raw\\unzipped\\2020040613251586175925.wav",
+    "data": {
+      "url": "http://localhost:8200/data/2020040613251586175925.wav?d=D%3A%5Cwav+files%5Craw%5Cunzipped"
+    }
+  },
+  "58": {
+    "id": 58,
+    "task_path": "D:\\wav files\\raw\\unzipped\\2020040613261586175981.wav",
+    "data": {
+      "url": "http://localhost:8200/data/2020040613261586175981.wav?d=D%3A%5Cwav+files%5Craw%5Cunzipped"
+    }
+  },
+  "59": {
+    "id": 59,
+    "task_path": "D:\\wav files\\raw\\unzipped\\2020040613271586176036.wav",
+    "data": {
+      "url": "http://localhost:8200/data/2020040613271586176036.wav?d=D%3A%5Cwav+files%5Craw%5Cunzipped"
+    }
+  },
+  "60": {
+    "id": 60,
+    "task_path": "D:\\wav files\\raw\\unzipped\\2020040613281586176092.wav",
+    "data": {
+      "url": "http://localhost:8200/data/2020040613281586176092.wav?d=D%3A%5Cwav+files%5Craw%5Cunzipped"
+    }
+  },
+  "61": {
+    "id": 61,
+    "task_path": "D:\\wav files\\raw\\unzipped\\2020040613291586176148.wav",
+    "data": {
+      "url": "http://localhost:8200/data/2020040613291586176148.wav?d=D%3A%5Cwav+files%5Craw%5Cunzipped"
+    }
+  },
+  "62": {
+    "id": 62,
+    "task_path": "D:\\wav files\\raw\\unzipped\\2020040613301586176204.wav",
+    "data": {
+      "url": "http://localhost:8200/data/2020040613301586176204.wav?d=D%3A%5Cwav+files%5Craw%5Cunzipped"
+    }
+  },
+  "63": {
+    "id": 63,
+    "task_path": "D:\\wav files\\raw\\unzipped\\2020040613311586176260.wav",
+    "data": {
+      "url": "http://localhost:8200/data/2020040613311586176260.wav?d=D%3A%5Cwav+files%5Craw%5Cunzipped"
+    }
+  },
+  "64": {
+    "id": 64,
+    "task_path": "D:\\wav files\\raw\\unzipped\\2020040613311586176316.wav",
+    "data": {
+      "url": "http://localhost:8200/data/2020040613311586176316.wav?d=D%3A%5Cwav+files%5Craw%5Cunzipped"
+    }
+  },
+  "65": {
+    "id": 65,
+    "task_path": "D:\\wav files\\raw\\unzipped\\2020040613321586176372.wav",
+    "data": {
+      "url": "http://localhost:8200/data/2020040613321586176372.wav?d=D%3A%5Cwav+files%5Craw%5Cunzipped"
+    }
+  },
+  "66": {
+    "id": 66,
+    "task_path": "D:\\wav files\\raw\\unzipped\\2020040613331586176428.wav",
+    "data": {
+      "url": "http://localhost:8200/data/2020040613331586176428.wav?d=D%3A%5Cwav+files%5Craw%5Cunzipped"
+    }
+  },
+  "67": {
+    "id": 67,
+    "task_path": "D:\\wav files\\raw\\unzipped\\2020040613341586176484.wav",
+    "data": {
+      "url": "http://localhost:8200/data/2020040613341586176484.wav?d=D%3A%5Cwav+files%5Craw%5Cunzipped"
+    }
+  },
+  "68": {
+    "id": 68,
+    "task_path": "D:\\wav files\\raw\\unzipped\\2020040613351586176539.wav",
+    "data": {
+      "url": "http://localhost:8200/data/2020040613351586176539.wav?d=D%3A%5Cwav+files%5Craw%5Cunzipped"
+    }
+  },
+  "69": {
+    "id": 69,
+    "task_path": "D:\\wav files\\raw\\unzipped\\2020040613361586176595.wav",
+    "data": {
+      "url": "http://localhost:8200/data/2020040613361586176595.wav?d=D%3A%5Cwav+files%5Craw%5Cunzipped"
+    }
+  },
+  "70": {
+    "id": 70,
+    "task_path": "D:\\wav files\\raw\\unzipped\\2020040613371586176651.wav",
+    "data": {
+      "url": "http://localhost:8200/data/2020040613371586176651.wav?d=D%3A%5Cwav+files%5Craw%5Cunzipped"
+    }
+  },
+  "71": {
+    "id": 71,
+    "task_path": "D:\\wav files\\raw\\unzipped\\2020040613381586176707.wav",
+    "data": {
+      "url": "http://localhost:8200/data/2020040613381586176707.wav?d=D%3A%5Cwav+files%5Craw%5Cunzipped"
+    }
+  },
+  "72": {
+    "id": 72,
+    "task_path": "D:\\wav files\\raw\\unzipped\\2020040613391586176763.wav",
+    "data": {
+      "url": "http://localhost:8200/data/2020040613391586176763.wav?d=D%3A%5Cwav+files%5Craw%5Cunzipped"
+    }
+  },
+  "73": {
+    "id": 73,
+    "task_path": "D:\\wav files\\raw\\unzipped\\2020040613401586176819.wav",
+    "data": {
+      "url": "http://localhost:8200/data/2020040613401586176819.wav?d=D%3A%5Cwav+files%5Craw%5Cunzipped"
+    }
+  },
+  "74": {
+    "id": 74,
+    "task_path": "D:\\wav files\\raw\\unzipped\\2020040613411586176875.wav",
+    "data": {
+      "url": "http://localhost:8200/data/2020040613411586176875.wav?d=D%3A%5Cwav+files%5Craw%5Cunzipped"
+    }
+  },
+  "75": {
+    "id": 75,
+    "task_path": "D:\\wav files\\raw\\unzipped\\2020040613421586176931.wav",
+    "data": {
+      "url": "http://localhost:8200/data/2020040613421586176931.wav?d=D%3A%5Cwav+files%5Craw%5Cunzipped"
+    }
+  },
+  "76": {
+    "id": 76,
+    "task_path": "D:\\wav files\\raw\\unzipped\\2020040613431586176987.wav",
+    "data": {
+      "url": "http://localhost:8200/data/2020040613431586176987.wav?d=D%3A%5Cwav+files%5Craw%5Cunzipped"
+    }
+  },
+  "77": {
+    "id": 77,
+    "task_path": "D:\\wav files\\raw\\unzipped\\2020040613441586177042.wav",
+    "data": {
+      "url": "http://localhost:8200/data/2020040613441586177042.wav?d=D%3A%5Cwav+files%5Craw%5Cunzipped"
+    }
+  },
+  "78": {
+    "id": 78,
+    "task_path": "D:\\wav files\\raw\\unzipped\\2020040613441586177098.wav",
+    "data": {
+      "url": "http://localhost:8200/data/2020040613441586177098.wav?d=D%3A%5Cwav+files%5Craw%5Cunzipped"
+    }
+  },
+  "79": {
+    "id": 79,
+    "task_path": "D:\\wav files\\raw\\unzipped\\2020040613451586177154.wav",
+    "data": {
+      "url": "http://localhost:8200/data/2020040613451586177154.wav?d=D%3A%5Cwav+files%5Craw%5Cunzipped"
+    }
+  },
+  "80": {
+    "id": 80,
+    "task_path": "D:\\wav files\\raw\\unzipped\\2020040613461586177210.wav",
+    "data": {
+      "url": "http://localhost:8200/data/2020040613461586177210.wav?d=D%3A%5Cwav+files%5Craw%5Cunzipped"
+    }
+  },
+  "81": {
+    "id": 81,
+    "task_path": "D:\\wav files\\raw\\unzipped\\2020040613471586177266.wav",
+    "data": {
+      "url": "http://localhost:8200/data/2020040613471586177266.wav?d=D%3A%5Cwav+files%5Craw%5Cunzipped"
+    }
+  },
+  "82": {
+    "id": 82,
+    "task_path": "D:\\wav files\\raw\\unzipped\\2020040613481586177322.wav",
+    "data": {
+      "url": "http://localhost:8200/data/2020040613481586177322.wav?d=D%3A%5Cwav+files%5Craw%5Cunzipped"
+    }
+  },
+  "83": {
+    "id": 83,
+    "task_path": "D:\\wav files\\raw\\unzipped\\2020040613491586177378.wav",
+    "data": {
+      "url": "http://localhost:8200/data/2020040613491586177378.wav?d=D%3A%5Cwav+files%5Craw%5Cunzipped"
+    }
+  },
+  "84": {
+    "id": 84,
+    "task_path": "D:\\wav files\\raw\\unzipped\\2020040613501586177434.wav",
+    "data": {
+      "url": "http://localhost:8200/data/2020040613501586177434.wav?d=D%3A%5Cwav+files%5Craw%5Cunzipped"
+    }
+  },
+  "85": {
+    "id": 85,
+    "task_path": "D:\\wav files\\raw\\unzipped\\2020040613511586177490.wav",
+    "data": {
+      "url": "http://localhost:8200/data/2020040613511586177490.wav?d=D%3A%5Cwav+files%5Craw%5Cunzipped"
+    }
+  },
+  "86": {
+    "id": 86,
+    "task_path": "D:\\wav files\\raw\\unzipped\\2020040613521586177545.wav",
+    "data": {
+      "url": "http://localhost:8200/data/2020040613521586177545.wav?d=D%3A%5Cwav+files%5Craw%5Cunzipped"
+    }
+  },
+  "87": {
+    "id": 87,
+    "task_path": "D:\\wav files\\raw\\unzipped\\2020040613531586177601.wav",
+    "data": {
+      "url": "http://localhost:8200/data/2020040613531586177601.wav?d=D%3A%5Cwav+files%5Craw%5Cunzipped"
+    }
+  },
+  "88": {
+    "id": 88,
+    "task_path": "D:\\wav files\\raw\\unzipped\\2020040613541586177657.wav",
+    "data": {
+      "url": "http://localhost:8200/data/2020040613541586177657.wav?d=D%3A%5Cwav+files%5Craw%5Cunzipped"
+    }
+  },
+  "89": {
+    "id": 89,
+    "task_path": "D:\\wav files\\raw\\unzipped\\2020040613551586177713.wav",
+    "data": {
+      "url": "http://localhost:8200/data/2020040613551586177713.wav?d=D%3A%5Cwav+files%5Craw%5Cunzipped"
+    }
+  },
+  "90": {
+    "id": 90,
+    "task_path": "D:\\wav files\\raw\\unzipped\\2020040613561586177769.wav",
+    "data": {
+      "url": "http://localhost:8200/data/2020040613561586177769.wav?d=D%3A%5Cwav+files%5Craw%5Cunzipped"
+    }
+  },
+  "91": {
+    "id": 91,
+    "task_path": "D:\\wav files\\raw\\unzipped\\2020040613571586177825.wav",
+    "data": {
+      "url": "http://localhost:8200/data/2020040613571586177825.wav?d=D%3A%5Cwav+files%5Craw%5Cunzipped"
+    }
+  },
+  "92": {
+    "id": 92,
+    "task_path": "D:\\wav files\\raw\\unzipped\\2020040613581586177881.wav",
+    "data": {
+      "url": "http://localhost:8200/data/2020040613581586177881.wav?d=D%3A%5Cwav+files%5Craw%5Cunzipped"
+    }
+  },
+  "93": {
+    "id": 93,
+    "task_path": "D:\\wav files\\raw\\unzipped\\2020040613581586177937.wav",
+    "data": {
+      "url": "http://localhost:8200/data/2020040613581586177937.wav?d=D%3A%5Cwav+files%5Craw%5Cunzipped"
+    }
+  },
+  "94": {
+    "id": 94,
+    "task_path": "D:\\wav files\\raw\\unzipped\\2020040613591586177993.wav",
+    "data": {
+      "url": "http://localhost:8200/data/2020040613591586177993.wav?d=D%3A%5Cwav+files%5Craw%5Cunzipped"
+    }
+  },
+  "95": {
+    "id": 95,
+    "task_path": "D:\\wav files\\raw\\unzipped\\2020040614001586178048.wav",
+    "data": {
+      "url": "http://localhost:8200/data/2020040614001586178048.wav?d=D%3A%5Cwav+files%5Craw%5Cunzipped"
+    }
+  },
+  "96": {
+    "id": 96,
+    "task_path": "D:\\wav files\\raw\\unzipped\\2020040614011586178104.wav",
+    "data": {
+      "url": "http://localhost:8200/data/2020040614011586178104.wav?d=D%3A%5Cwav+files%5Craw%5Cunzipped"
+    }
+  },
+  "97": {
+    "id": 97,
+    "task_path": "D:\\wav files\\raw\\unzipped\\2020040614021586178160.wav",
+    "data": {
+      "url": "http://localhost:8200/data/2020040614021586178160.wav?d=D%3A%5Cwav+files%5Craw%5Cunzipped"
+    }
+  },
+  "98": {
+    "id": 98,
+    "task_path": "D:\\wav files\\raw\\unzipped\\2020040614031586178216.wav",
+    "data": {
+      "url": "http://localhost:8200/data/2020040614031586178216.wav?d=D%3A%5Cwav+files%5Craw%5Cunzipped"
+    }
+  },
+  "99": {
+    "id": 99,
+    "task_path": "D:\\wav files\\raw\\unzipped\\2020040614041586178272.wav",
+    "data": {
+      "url": "http://localhost:8200/data/2020040614041586178272.wav?d=D%3A%5Cwav+files%5Craw%5Cunzipped"
+    }
+  },
+  "100": {
+    "id": 100,
+    "task_path": "D:\\wav files\\raw\\unzipped\\2020040614051586178328.wav",
+    "data": {
+      "url": "http://localhost:8200/data/2020040614051586178328.wav?d=D%3A%5Cwav+files%5Craw%5Cunzipped"
+    }
+  },
+  "101": {
+    "id": 101,
+    "task_path": "D:\\wav files\\raw\\unzipped\\2020040614061586178384.wav",
+    "data": {
+      "url": "http://localhost:8200/data/2020040614061586178384.wav?d=D%3A%5Cwav+files%5Craw%5Cunzipped"
+    }
+  },
+  "102": {
+    "id": 102,
+    "task_path": "D:\\wav files\\raw\\unzipped\\2020040614071586178440.wav",
+    "data": {
+      "url": "http://localhost:8200/data/2020040614071586178440.wav?d=D%3A%5Cwav+files%5Craw%5Cunzipped"
+    }
+  },
+  "103": {
+    "id": 103,
+    "task_path": "D:\\wav files\\raw\\unzipped\\2020040614081586178496.wav",
+    "data": {
+      "url": "http://localhost:8200/data/2020040614081586178496.wav?d=D%3A%5Cwav+files%5Craw%5Cunzipped"
+    }
+  },
+  "104": {
+    "id": 104,
+    "task_path": "D:\\wav files\\raw\\unzipped\\2020040614091586178551.wav",
+    "data": {
+      "url": "http://localhost:8200/data/2020040614091586178551.wav?d=D%3A%5Cwav+files%5Craw%5Cunzipped"
+    }
+  },
+  "105": {
+    "id": 105,
+    "task_path": "D:\\wav files\\raw\\unzipped\\2020040614101586178607.wav",
+    "data": {
+      "url": "http://localhost:8200/data/2020040614101586178607.wav?d=D%3A%5Cwav+files%5Craw%5Cunzipped"
+    }
+  },
+  "106": {
+    "id": 106,
+    "task_path": "D:\\wav files\\raw\\unzipped\\2020040614111586178663.wav",
+    "data": {
+      "url": "http://localhost:8200/data/2020040614111586178663.wav?d=D%3A%5Cwav+files%5Craw%5Cunzipped"
+    }
+  },
+  "107": {
+    "id": 107,
+    "task_path": "D:\\wav files\\raw\\unzipped\\2020040614111586178719.wav",
+    "data": {
+      "url": "http://localhost:8200/data/2020040614111586178719.wav?d=D%3A%5Cwav+files%5Craw%5Cunzipped"
+    }
+  },
+  "108": {
+    "id": 108,
+    "task_path": "D:\\wav files\\raw\\unzipped\\2020040614121586178775.wav",
+    "data": {
+      "url": "http://localhost:8200/data/2020040614121586178775.wav?d=D%3A%5Cwav+files%5Craw%5Cunzipped"
+    }
+  },
+  "109": {
+    "id": 109,
+    "task_path": "D:\\wav files\\raw\\unzipped\\2020040614131586178831.wav",
+    "data": {
+      "url": "http://localhost:8200/data/2020040614131586178831.wav?d=D%3A%5Cwav+files%5Craw%5Cunzipped"
+    }
+  },
+  "110": {
+    "id": 110,
+    "task_path": "D:\\wav files\\raw\\unzipped\\2020040614141586178887.wav",
+    "data": {
+      "url": "http://localhost:8200/data/2020040614141586178887.wav?d=D%3A%5Cwav+files%5Craw%5Cunzipped"
+    }
+  },
+  "111": {
+    "id": 111,
+    "task_path": "D:\\wav files\\raw\\unzipped\\2020040614151586178943.wav",
+    "data": {
+      "url": "http://localhost:8200/data/2020040614151586178943.wav?d=D%3A%5Cwav+files%5Craw%5Cunzipped"
+    }
+  },
+  "112": {
+    "id": 112,
+    "task_path": "D:\\wav files\\raw\\unzipped\\2020040614161586178999.wav",
+    "data": {
+      "url": "http://localhost:8200/data/2020040614161586178999.wav?d=D%3A%5Cwav+files%5Craw%5Cunzipped"
+    }
+  },
+  "113": {
+    "id": 113,
+    "task_path": "D:\\wav files\\raw\\unzipped\\2020040614171586179055.wav",
+    "data": {
+      "url": "http://localhost:8200/data/2020040614171586179055.wav?d=D%3A%5Cwav+files%5Craw%5Cunzipped"
+    }
+  },
+  "114": {
+    "id": 114,
+    "task_path": "D:\\wav files\\raw\\unzipped\\2020040614181586179110.wav",
+    "data": {
+      "url": "http://localhost:8200/data/2020040614181586179110.wav?d=D%3A%5Cwav+files%5Craw%5Cunzipped"
+    }
+  },
+  "115": {
+    "id": 115,
+    "task_path": "D:\\wav files\\raw\\unzipped\\2020040614191586179166.wav",
+    "data": {
+      "url": "http://localhost:8200/data/2020040614191586179166.wav?d=D%3A%5Cwav+files%5Craw%5Cunzipped"
+    }
+  },
+  "116": {
+    "id": 116,
+    "task_path": "D:\\wav files\\raw\\unzipped\\2020040614201586179222.wav",
+    "data": {
+      "url": "http://localhost:8200/data/2020040614201586179222.wav?d=D%3A%5Cwav+files%5Craw%5Cunzipped"
+    }
+  },
+  "117": {
+    "id": 117,
+    "task_path": "D:\\wav files\\raw\\unzipped\\2020040614211586179278.wav",
+    "data": {
+      "url": "http://localhost:8200/data/2020040614211586179278.wav?d=D%3A%5Cwav+files%5Craw%5Cunzipped"
+    }
+  },
+  "118": {
+    "id": 118,
+    "task_path": "D:\\wav files\\raw\\unzipped\\2020040614221586179334.wav",
+    "data": {
+      "url": "http://localhost:8200/data/2020040614221586179334.wav?d=D%3A%5Cwav+files%5Craw%5Cunzipped"
+    }
+  },
+  "119": {
+    "id": 119,
+    "task_path": "D:\\wav files\\raw\\unzipped\\2020040614231586179390.wav",
+    "data": {
+      "url": "http://localhost:8200/data/2020040614231586179390.wav?d=D%3A%5Cwav+files%5Craw%5Cunzipped"
+    }
+  },
+  "120": {
+    "id": 120,
+    "task_path": "D:\\wav files\\raw\\unzipped\\2020040614241586179446.wav",
+    "data": {
+      "url": "http://localhost:8200/data/2020040614241586179446.wav?d=D%3A%5Cwav+files%5Craw%5Cunzipped"
+    }
+  },
+  "121": {
+    "id": 121,
+    "task_path": "D:\\wav files\\raw\\unzipped\\2020040808341586331299.wav",
+    "data": {
+      "url": "http://localhost:8200/data/2020040808341586331299.wav?d=D%3A%5Cwav+files%5Craw%5Cunzipped"
+    }
+  },
+  "122": {
+    "id": 122,
+    "task_path": "D:\\wav files\\raw\\unzipped\\2020040808391586331579.wav",
+    "data": {
+      "url": "http://localhost:8200/data/2020040808391586331579.wav?d=D%3A%5Cwav+files%5Craw%5Cunzipped"
+    }
+  },
+  "123": {
+    "id": 123,
+    "task_path": "D:\\wav files\\raw\\unzipped\\2020040808431586331802.wav",
+    "data": {
+      "url": "http://localhost:8200/data/2020040808431586331802.wav?d=D%3A%5Cwav+files%5Craw%5Cunzipped"
+    }
+  },
+  "124": {
+    "id": 124,
+    "task_path": "D:\\wav files\\raw\\unzipped\\2020040809031586333032.wav",
+    "data": {
+      "url": "http://localhost:8200/data/2020040809031586333032.wav?d=D%3A%5Cwav+files%5Craw%5Cunzipped"
+    }
+  },
+  "125": {
+    "id": 125,
+    "task_path": "D:\\wav files\\raw\\unzipped\\2020040809561586336217.wav",
+    "data": {
+      "url": "http://localhost:8200/data/2020040809561586336217.wav?d=D%3A%5Cwav+files%5Craw%5Cunzipped"
+    }
+  },
+  "126": {
+    "id": 126,
+    "task_path": "D:\\wav files\\raw\\unzipped\\2020040810121586337168.wav",
+    "data": {
+      "url": "http://localhost:8200/data/2020040810121586337168.wav?d=D%3A%5Cwav+files%5Craw%5Cunzipped"
+    }
+  },
+  "127": {
+    "id": 127,
+    "task_path": "D:\\wav files\\raw\\unzipped\\2020040810191586337559.wav",
+    "data": {
+      "url": "http://localhost:8200/data/2020040810191586337559.wav?d=D%3A%5Cwav+files%5Craw%5Cunzipped"
+    }
+  }
+}

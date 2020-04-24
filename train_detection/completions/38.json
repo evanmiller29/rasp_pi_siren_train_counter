@@ -1,0 +1,14 @@
+{
+    "completions": [
+        {
+            "id": 38001,
+            "lead_time": 58.996,
+            "result": []
+        }
+    ],
+    "data": {
+        "url": "http://localhost:8200/data/2020040613071586174863.wav?d=D%3A%5Cwav+files%5Craw%5Cunzipped"
+    },
+    "id": 38,
+    "task_path": "D:\\wav files\\raw\\unzipped\\2020040613071586174863.wav"
+}

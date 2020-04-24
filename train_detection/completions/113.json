@@ -1,0 +1,26 @@
+{
+    "completions": [
+        {
+            "id": 113001,
+            "lead_time": 58.844,
+            "result": [
+                {
+                    "from_name": "label",
+                    "id": "dktIvTI_GB",
+                    "to_name": "audio",
+                    "type": "choices",
+                    "value": {
+                        "choices": [
+                            "No train"
+                        ]
+                    }
+                }
+            ]
+        }
+    ],
+    "data": {
+        "url": "http://localhost:8200/data/2020040614171586179055.wav?d=D%3A%5Cwav+files%5Craw%5Cunzipped"
+    },
+    "id": 113,
+    "task_path": "D:\\wav files\\raw\\unzipped\\2020040614171586179055.wav"
+}

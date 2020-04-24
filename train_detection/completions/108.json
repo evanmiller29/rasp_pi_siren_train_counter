@@ -1,0 +1,26 @@
+{
+    "completions": [
+        {
+            "id": 108001,
+            "lead_time": 5.523,
+            "result": [
+                {
+                    "from_name": "label",
+                    "id": "quiC4-hDSX",
+                    "to_name": "audio",
+                    "type": "choices",
+                    "value": {
+                        "choices": [
+                            "Train"
+                        ]
+                    }
+                }
+            ]
+        }
+    ],
+    "data": {
+        "url": "http://localhost:8200/data/2020040614121586178775.wav?d=D%3A%5Cwav+files%5Craw%5Cunzipped"
+    },
+    "id": 108,
+    "task_path": "D:\\wav files\\raw\\unzipped\\2020040614121586178775.wav"
+}

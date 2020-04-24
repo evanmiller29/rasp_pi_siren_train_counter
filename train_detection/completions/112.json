@@ -1,0 +1,26 @@
+{
+    "completions": [
+        {
+            "id": 112001,
+            "lead_time": 15.043,
+            "result": [
+                {
+                    "from_name": "label",
+                    "id": "NDXk-DKBPJ",
+                    "to_name": "audio",
+                    "type": "choices",
+                    "value": {
+                        "choices": [
+                            "Train"
+                        ]
+                    }
+                }
+            ]
+        }
+    ],
+    "data": {
+        "url": "http://localhost:8200/data/2020040614161586178999.wav?d=D%3A%5Cwav+files%5Craw%5Cunzipped"
+    },
+    "id": 112,
+    "task_path": "D:\\wav files\\raw\\unzipped\\2020040614161586178999.wav"
+}
